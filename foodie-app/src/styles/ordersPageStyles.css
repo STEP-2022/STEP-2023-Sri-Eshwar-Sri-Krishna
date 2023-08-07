@@ -1,0 +1,19 @@
+.order-page {
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.order .child {
+  width: 72%;
+}
+
+.order {
+  display: flex;
+  flex-direction: row;
+  width: 100vw;
+}
+
+.order i {
+  font-size: 13px;
+}

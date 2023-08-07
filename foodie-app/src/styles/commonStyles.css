@@ -1,0 +1,10 @@
+.child {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.wrap-text {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}

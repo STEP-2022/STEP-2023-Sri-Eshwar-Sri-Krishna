@@ -1,0 +1,36 @@
+.restaurant-card {
+  width: 300px;
+  padding: 20px 10px;
+  color: #7a7a7a;
+  cursor: pointer;
+}
+
+.restaurant-logo {
+  width: 100%;
+  height: 175px;
+}
+
+.restaurant-name {
+  padding-top: 10px;
+  font-size: 18px;
+  font-weight: 600;
+  color: #696969;
+}
+
+.restaurant-desc {
+  font-size: 14px;
+}
+
+.restaurant-location {
+  margin-top: 10px;
+  font-size: 12px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #eaeaea;
+}
+
+.restaurant-review {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 15px;
+  font-size: 12px;
+}

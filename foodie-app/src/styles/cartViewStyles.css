@@ -1,0 +1,21 @@
+.my-cart {
+  flex-basis: 25%;
+  padding: 15px 40px;
+  background-color: #f1f1f1;
+  min-height: 90vh;
+}
+.my-cart .dim {
+  color: dimgray;
+}
+
+.my-cart .bold {
+  font-weight: bold;
+}
+
+.my-cart .title {
+  margin: 30px 0 10px;
+}
+
+.my-cart .total-container {
+  margin: 20px 0;
+}

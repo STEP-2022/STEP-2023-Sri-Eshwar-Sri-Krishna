@@ -1,0 +1,42 @@
+.login-page {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.login-background {
+  flex-basis: 75%;
+  height: 100vh;
+  background: url(../resources/images/login-background.jpg);
+}
+
+.login-form {
+  flex-basis: 25%;
+  padding: 20px;
+}
+
+.app-logo {
+  margin: 0 auto;
+  width: 60%;
+}
+
+.login-form {
+  margin-top: 20px;
+}
+
+.form-field {
+  margin-top: 15px;
+}
+
+.login-form span {
+  display: inline-block;
+  font-size: 14px;
+  margin-top: 10px;
+}
+
+.login-form .link {
+  font-size: 14px;
+  font-weight: 700;
+  text-decoration: none;
+  color: black;
+}

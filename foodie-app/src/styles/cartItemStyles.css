@@ -1,0 +1,53 @@
+.my-cart .item-container {
+  padding: 20px 0;
+  border-bottom: 1px solid gray;
+  font-size: 14px;
+}
+
+.item-container .item-title {
+  line-height: 2;
+}
+
+.my-cart .item-content {
+  font-size: 14px;
+  display: flex;
+  flex-direction: row;
+}
+
+.item-content span {
+  margin-right: -1px;
+}
+
+.item-content button,
+.item-content input {
+  line-height: 1.6;
+  width: 25px;
+  border: 1px solid dimgray;
+  font-size: 14px;
+  background-color: #f1f1f1;
+  color: dimgray;
+  padding: 0;
+}
+
+.item-content input {
+  text-align: center;
+  background-color: white;
+}
+
+.item-content .content-left {
+  flex-basis: 75%;
+  line-height: 2;
+}
+
+.item-content .content-right {
+  flex-basis: 25%;
+  line-height: 2;
+  text-align: right;
+}
+.order .item-content i {
+  font-size: 12px;
+}
+
+.my-cart .cost {
+  color: dimgray;
+}

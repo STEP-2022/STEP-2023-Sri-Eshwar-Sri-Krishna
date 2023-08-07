@@ -1,0 +1,25 @@
+.items {
+  flex-basis: 75%;
+}
+
+.restaurant {
+  background-color: #332323;
+  color: white;
+  padding: 30px 0;
+}
+
+.restaurant .title {
+  margin-bottom: 15px;
+}
+
+.restaurant .child {
+  font-weight: bold;
+}
+
+.restaurant .address {
+  font-size: 14px;
+}
+
+.order-items .title {
+  margin: 30px 0 10px;
+}

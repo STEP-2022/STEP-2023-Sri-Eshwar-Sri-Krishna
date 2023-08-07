@@ -1,0 +1,7 @@
+input {
+    width: calc(100% - 14px);
+    padding: 16px 2px 16px 10px;
+    font-size: 14px;
+    border: 1px solid #aaaaaa;
+    outline: none;
+  }
